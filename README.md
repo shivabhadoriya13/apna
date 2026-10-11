@@ -1,4 +1,4 @@
 # apna
 Github Handson
 
-Course Work - Apna College
+Course Work - Apna College (Sharaddha Khapre)
